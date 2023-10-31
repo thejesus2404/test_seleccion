@@ -1,2 +1,5 @@
 *.zip
 *.png
+
+/node_modules
+*/node_modules

@@ -4,3 +4,4 @@
 <h3>Duración de cada tarea</h3>
 <h4>Maquetación HTML y CSS:</h4>
 <li>Display Flex: 4 h</li>
+<h4>API con NestJS: 40 min</h4>
