@@ -5,3 +5,4 @@
 <h4>Maquetación HTML y CSS:</h4>
 <li>Display Flex: 4 h</li>
 <h4>API con NestJS: 40 min</h4>
+<h4>DB SQL: 1 h 20 min</h4>
