@@ -5,7 +5,8 @@
 <h4>Maquetación HTML y CSS:</h4>
 <li>Display Flex: 4 h</li>
 <h4>API con NestJS: 40 min</h4>
+<p>La duración total estudiando temas de Node.js, Express, TypeScript, y NestJS fue de 7 horas aproximadamente, pero el tiempo de desarrollo de la tarea fue de 40 minutos.</p>
 <h4>DB SQL: 1 h 20 min</h4>
 <h4>Presentación con JavaScript: 5 h</h4>
 
-<p>A pesar de que lo más demorado fue lo relativo al frontend, lo más difícil fue realizar las tareas de backes, puesto que tuve que estudiar una gran cantidad de material y ver varios cursos antes de realizar cada tarea. No obstante, logré ayudarme con ChatGPT para darme algunas pistas de cómo resolver los problemas complejos.</p>
+<p>A pesar de que lo más demorado fue lo relativo al frontend, lo más difícil fue realizar las tareas de backend, puesto que tuve que estudiar una gran cantidad de material y ver varios cursos antes de realizar cada tarea. No obstante, logré ayudarme con ChatGPT para darme algunas pistas de cómo resolver los problemas complejos.</p>
