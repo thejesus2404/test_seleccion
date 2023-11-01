@@ -1,0 +1,88 @@
+@font-face {
+  font-family: "Montserrat";
+  src: url("../Presentación con Display Flexbox/fonts/Montserrat/Montserrat-VariableFont_wght.ttf")
+    format("truetype");
+  font-style: normal;
+  font-weight: normal;
+}
+
+.flex-container {
+  display: flex;
+  justify-content: space-evenly;
+  align-content: center;
+  flex-flow: row wrap;
+  width: 50%;
+  margin: 0 auto;
+}
+
+.card {
+  display: flex;
+  border: 1px solid rgb(160, 160, 160);
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  width: 180px;
+  height: 380px;
+  box-shadow: 3px 3px 3px rgb(152, 152, 152);
+  margin: 1%;
+}
+
+.img-box {
+  width: 180px;
+  height: 180px;
+  background-color: black;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  flex-direction: column;
+  align-content: center;
+}
+
+.img-box img {
+  max-width: 100%;
+  max-height: 100%;
+  object-fit: contain;
+}
+
+.text-box {
+  width: 160px;
+  height: 180px;
+  display: flex;
+  justify-content: space-between;
+  flex-direction: column;
+  text-align: justify;
+  font-family: "Montserrat";
+  font-size: 11px;
+  margin-bottom: 10px;
+}
+.title-box {
+  margin-top: 0px;
+  margin-bottom: 3px;
+}
+
+.content-box {
+  display: flex;
+  flex-direction: column;
+  justify-content: left;
+  align-items: left;
+  align-content: center;
+  width: 160px;
+  height: 120px;
+  margin: 0;
+}
+
+.button-box {
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  align-self: center;
+  color: white;
+  background-color: gray;
+  border: none;
+  width: 60%;
+  height: 20px;
+  padding-top: 4px;
+  font-size: 13px;
+  cursor: pointer;
+  text-decoration: none;
+}
